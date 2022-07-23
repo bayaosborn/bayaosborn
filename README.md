@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Baya Osborn.
-- Current working at Adept Technologies as a Data Entry and Scanning specialist.
+- Currently working at Adept Technologies as a Data Entry and Scanning specialist.
 - 👀 I’m interested in ML, Automation, Data Science, Cloud and Literature.
 - 🌱 I’m currently learning Responsive Web Design
 - 💞️ I’m looking to collaborate on website building.
